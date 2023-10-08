@@ -7,7 +7,7 @@ Compile with an compiler of your choice:
 
 Pass in the modulo operation as first argument into the program and redirect the output to an readme/html file: 
 
-<code>modulo "235673 ^ 84523 mod 23" > test.md</code>
+<code>./modulo "235673 ^ 84523 mod 23" > test.md</code>
 
 <h2>License</h2>
 GNU GPL-3.0 Noah Nagel 
